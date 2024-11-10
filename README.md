@@ -23,18 +23,16 @@ Step 3: Start Apache Server
 Open XAMPP Control Panel.
 Start Apache.
 Click on the Admin button to navigate to phpMyAdmin.
+
 Step 4: Set Up the Database
 Create a new database named ecommerce.
 Click on the SQL tab.
 Copy and paste the SQL code from the codeForSql.sql file in the repository.
 Click Go to execute the SQL commands and create the necessary tables.
+
 Step 5: Run the Project
 Navigate to your browser and open:
-
-arduino
-Copy code
 http://localhost/PHP-Project/
-Screenshots
 
 Features
 User-friendly product browsing
