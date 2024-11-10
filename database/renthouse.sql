@@ -100,7 +100,7 @@ CREATE TABLE `owner` (
 --
 
 INSERT INTO `owner` (`owner_id`, `full_name`, `email`, `password`, `phone_no`, `address`, `id_type`, `id_photo`) VALUES
-(1, 'Nikesh Tiwari', 'nikeshtiwari3230@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 987654321, 'Kirtipur-3', 'Citizenship', 'owner-photo/nikesh.png');
+(1, 'Pushkar Varshney', 'varshpush@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 8868033244, 'Kirtipur-3', 'Citizenship', 'owner-photo/nikesh.png');
 
 -- --------------------------------------------------------
 
@@ -167,7 +167,7 @@ CREATE TABLE `tenant` (
 --
 
 INSERT INTO `tenant` (`tenant_id`, `full_name`, `email`, `password`, `phone_no`, `address`, `id_type`, `id_photo`) VALUES
-(17, 'Nikesh Tiwari', 'nikeshtiwari3230@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 987654321, 'Kirtipur-3', 'Citizenship', 'tenant-photo/nikesh.png');
+(17, 'Pushkar Varshney', 'varshpush@gmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 8868033244, 'Kirtipur-3', 'Citizenship', 'tenant-photo/nikesh.png');
 
 --
 -- Indexes for dumped tables
